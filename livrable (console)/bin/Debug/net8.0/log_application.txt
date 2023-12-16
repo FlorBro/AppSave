@@ -1,0 +1,30 @@
+Horodatage : save_1
+Sauvegarde : save_1
+Statut : SUCCED
+Error : Cut original file = Falsetest.sauvegardetype : False
+Source : C:\Users\floba\OneDrive\Bureau\essaie
+Destination : C:\Users\floba\OneDrive\Bureau\Transfer
+Date/Heure fin de tache : 02/12/2023 15:36:40
+duration : -00:00:00.0163024
+Size (bytes): 4242
+
+Horodatage : save_1
+Sauvegarde : save_1
+Statut : SUCCED
+Error : Cut original file = Falsetest.sauvegardetype : False
+Source : C:\Users\floba\OneDrive\Bureau\essaie
+Destination : C:\Users\floba\OneDrive\Bureau\Transfer
+Date/Heure fin de tache : 02/12/2023 15:38:27
+duration : -00:00:00.0089959
+Size (bytes): 4242
+
+Horodatage : save_1
+Sauvegarde : save_1
+Statut : SUCCED
+Error : Cut original file = Falsetest.sauvegardetype : False
+Source : C:\Users\floba\OneDrive\Bureau\Transfer
+Destination : C:\Users\floba\OneDrive\Bureau\essaie
+Date/Heure fin de tache : 02/12/2023 15:42:03
+duration : -00:00:00.0170896
+Size (bytes): 4242
+

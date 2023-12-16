@@ -1,0 +1,15 @@
+﻿{
+  "defaultlang": "Choisissez entre FR ou ENG ou DE",
+  "setlang": "Langue reglé sur français",
+  "choicecutcopy": "Voulez vous COUPER ou COPIER le fichier initial ?",
+  "validationchoicecut": "Vous avez choisie de COUPER, nous allons donc effacer le fichier original",
+  "validationchoicecopy": "Vous avez choisie de COPIER, nous allons donc dupliquer le fichier original",
+  "choicestainname": "Choisissez le nom de la sauvegarde",
+  "inputmessages": "Choisissez le depo a save : ",
+  "inputerrormessages": "Veuillez choisir un repo valide : ",
+  "inputmessage": "Choisissez le depo où vous voulez save : ",
+  "savetype": "Voulez-vous faire une sauvegarde COMPLETE ou DIFFERENTIEL ?",
+  "nsave": "Sauvegarde numéro: ",
+  "sucess": "Copié avec succés",
+  "SaveN": "Combien de dossier souhaitez vous sauvegarder?"
+}

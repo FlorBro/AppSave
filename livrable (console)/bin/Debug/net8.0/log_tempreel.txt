@@ -1,0 +1,30 @@
+Sauvegarde : save_1
+Statut : success
+Error : NONE
+Source : C:\Users\floba\OneDrive\Bureau\essaie
+Destination : C:\Users\floba\OneDrive\Bureau\Transfer
+Date/Heure fin de tache : 02/12/2023 15:36:40
+Total files to copy: 3
+Total Files size:18285
+NbFilesLeftToDo:2
+
+Sauvegarde : save_1
+Statut : success
+Error : NONE
+Source : C:\Users\floba\OneDrive\Bureau\essaie
+Destination : C:\Users\floba\OneDrive\Bureau\Transfer
+Date/Heure fin de tache : 02/12/2023 15:38:27
+Total files to copy: 3
+Total Files size:18285
+NbFilesLeftToDo:2
+
+Sauvegarde : save_1
+Statut : success
+Error : NONE
+Source : C:\Users\floba\OneDrive\Bureau\Transfer
+Destination : C:\Users\floba\OneDrive\Bureau\essaie
+Date/Heure fin de tache : 02/12/2023 15:42:03
+Total files to copy: 3
+Total Files size:18285
+NbFilesLeftToDo:2
+

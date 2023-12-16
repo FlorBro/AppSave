@@ -1,0 +1,15 @@
+﻿{
+  "defaultlang": "Bitte geben Sie die gewünschte Sprache ein: FR oder ENG oder DE",
+  "setlang": "Sprache auf Deutsch eingestellt",
+  "choicecutcopy": "Möchten Sie die Originaldatei KOPIEREN oder AUSSCHNEIDEN ? ",
+  "validationchoicecut": "Sie haben SCHNEIDEN ausgewählt, die Originaldatei wird gelöscht werden.",
+  "validationchoicecopy": "Sie haben KOPIEREN ausgewählt, die Originaldatei wird dupliziert.",
+  "choicestainname": "Bitte wählen Sie den Namen für das Backup: ",
+  "inputmessages": "Bitte wählen Sie das Repository zum Speichern aus: ",
+  "inputmessage": "Bitte wählen Sie das Repository aus, in dem Sie speichern möchten:  ",
+  "inputerrormessages": "Nein, bitte wählen Sie ein gültiges Repository aus :",
+  "savetype": "Wählen Sie zwischen: VOLLSTÄNDIGES Backup oder DIFFERENTIELLES Backup.",
+  "nsave": "BackUp number: ",
+  "sucess": "Kopieren erfolgreich",
+  "SaveN": "Wie viele Ordner möchten Sie sichern?"
+}

@@ -1,0 +1,20 @@
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\livrable (console).exe
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\livrable (console).deps.json
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\livrable (console).runtimeconfig.json
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\livrable (console).dll
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\livrable (console).pdb
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\classe.dll
+C:\Users\floba\Source\Repos\easysave\livrable (console)\bin\Debug\net8.0\classe.pdb
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.AssemblyReference.cache
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfoInputs.cache
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfo.cs
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CoreCompileInputs.cache
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).sourcelink.json
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CopyComplete
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).dll
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\refint\livrable (console).dll
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).pdb
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\livrable (console).genruntimeconfig.cache
+C:\Users\floba\Source\Repos\easysave\livrable (console)\obj\Debug\net8.0\ref\livrable (console).dll

@@ -1,0 +1,13 @@
+C:\Users\floba\Source\Repos\easysave\classe\bin\Debug\net6.0\classe.deps.json
+C:\Users\floba\Source\Repos\easysave\classe\bin\Debug\net6.0\classe.dll
+C:\Users\floba\Source\Repos\easysave\classe\bin\Debug\net6.0\classe.pdb
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.csproj.AssemblyReference.cache
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.AssemblyInfoInputs.cache
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.AssemblyInfo.cs
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.csproj.CoreCompileInputs.cache
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.sourcelink.json
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.dll
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\refint\classe.dll
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\classe.pdb
+C:\Users\floba\Source\Repos\easysave\classe\obj\Debug\net6.0\ref\classe.dll

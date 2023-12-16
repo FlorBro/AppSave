@@ -1,0 +1,16 @@
+﻿{
+  "defaultlang": "Please enter the desire language FR or ENG or DE",
+  "setlang": "Language set to english",
+  "choicecutcopy": "Do you want to COPY or CUT the original file ? ",
+  "validationchoicecut": "You selected CUT, the original file will be erase ",
+
+  "validationchoicecopy": "You selected COPY,the original file will be duplicated",
+  "choicestainname": "Please choose the BackUp name : ",
+  "inputmessages": "Please choose the repo to save : ",
+  "inputmessage": "Please choose the repo where you want to save : ",
+  "inputerrormessages": "No please choose a valid repo : ",
+  "savetype": "Choose between: COMPLETE backup or DIFFERENTIAL backup",
+  "nsave": "BackUp number: ",
+  "sucess": "Copy succeed",
+  "SaveN": "How many folders do you want to backUp ?"
+}

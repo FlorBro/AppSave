@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jWDyBGIhMl105YER7bImOX6Kidyo0yY4LlGnxV6sZ9BfrBFEhsYBaGvRsc6kgFzMeB+CO2AgqiJR+jmwUAcjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\floba\\Source\\Repos\\easysave\\classe\\classe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\floba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
